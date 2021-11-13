@@ -2,9 +2,11 @@
 
 ![tologo2](https://user-images.githubusercontent.com/78680884/141614154-0acfff27-aed4-4ab7-954c-168dfc51de94.png)
 
+<br />
+
 ### 잠시 이곳에서 쉬어가세요 Touch.
 
-
+---
 
 ## 🙋‍♂️💁‍♂️ Team Infor 🙆‍♂️🙋‍♂️
 | 이름(깃헙링크) | Position & Role|
@@ -14,24 +16,35 @@
 | [김동우](https://github.com/off-dngw) | 💻 Front-end|
 | [정종화](https://github.com/pistachio02) | 💻 Back-end|
 
+<br />
 
 ##  ☁️ 배포링크 
 
+[https://touch.pe.kr](https://touch.pe.kr)
+
+<br />
 
 ## 🔨 Front-Tech &  🔧 Back-Tech
 
-
-
-
-
+<br />
 
 ## 🏛 Architecture
+---
+![Flowchart](https://user-images.githubusercontent.com/75570030/138298327-d2bc9f95-915f-4d60-a9dd-717b5bcee26d.jpg)
 
-### Client flow chart
 
 
+## 🏛 DB Schema
+---
+![image](https://user-images.githubusercontent.com/83817746/140731029-9112562f-307e-44aa-b8c9-5850a748aa03.png)
 
-### DB Schema
+<br />
+
+## 🏛 API Documentations
+---
+https://wiaptm0219.gitbook.io/touch-api-document-1/
+
+<br />
 
 
 ## 🌝 기능별 시연 gif
