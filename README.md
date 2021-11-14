@@ -163,21 +163,22 @@ https://wiaptm0219.gitbook.io/touch-api-document-1/
  <summary>Agora Page</summary>
   <details>
    <summary>전체 글보기</summary>
+    <img width="700" src="https://user-images.githubusercontent.com/78680884/141679173-c199a6fd-3d87-4e00-bc1e-8b34f34f585d.gif"/>
   </details>
   
   <details>
    <summary>글쓰기, 수정 및 삭제</summary>
-    
+     <img width="700" src="https://user-images.githubusercontent.com/78680884/141679179-50e58a04-47e7-4da0-aefd-314e86991d36.gif"/>
   </details>
   
   <details>
    <summary>보고 싶은 게시글 보기 </summary>
-    <img width="700" src="https://user-images.githubusercontent.com/79203932/136372647-bad6c81d-c8d4-4387-8020-e6c31df6f34c.gif"/>
+    <img width="700" src="https://user-images.githubusercontent.com/78680884/141679196-7970e8ec-cb6d-4e1f-a05f-7c7e76e1861e.gif"/>
   </details>
   
   <details>
    <summary>댓글 달기 및 삭제 </summary>
-    <img width="700" src="https://user-images.githubusercontent.com/79203932/136375338-d7811c00-9a92-4585-a3a1-90d75a337877.gif"/>
+    <img width="700" src="https://user-images.githubusercontent.com/78680884/141679184-94f333c4-95a5-43e2-a421-fc8e93a555fd.gif"/>
   </details>
   
 </details>
