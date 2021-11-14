@@ -75,11 +75,6 @@ https://wiaptm0219.gitbook.io/touch-api-document-1/
      <img width="700" src="https://user-images.githubusercontent.com/78680884/141642434-bd1eabc6-6910-4194-a490-5082bbe13e0d.gif"/>
   </details>
   
-  <details>
-  <summary> 로그아웃 </summary>
-    <img width="700" src="https://user-images.githubusercontent.com/78680884/141642436-e8e8b86a-7b81-40aa-b840-aa8b10917479.gif"/>
-  </details>
-  
 </details>
 
 ---
