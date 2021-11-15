@@ -27,7 +27,7 @@
 ## 🔨 Front-Tech &  🔧 Back-Tech
 
 
-![stack](https://user-images.githubusercontent.com/75570030/141696367-7d471a7e-56ae-4c22-8933-5e33b01a486c.PNG)
+![stack](https://user-images.githubusercontent.com/75570030/141820429-2a3da357-f87e-4a23-a7c8-3015c60a0832.PNG)
 
 
 <br />
