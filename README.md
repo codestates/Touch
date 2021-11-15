@@ -162,7 +162,7 @@ https://wiaptm0219.gitbook.io/touch-api-document-1/
  <summary>Agora Page</summary>
   <details>
    <summary>전체 글보기</summary>
-    <img width="700" src="https://user-images.githubusercontent.com/78680884/141679173-c199a6fd-3d87-4e00-bc1e-8b34f34f585d.gif"/>
+    <img width="700" src="https://user-images.githubusercontent.com/79832647/141833599-cedd2141-d525-4825-9411-a24fad7a9316.gif"/>
   </details>
   
   <details>
