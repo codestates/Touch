@@ -20,7 +20,7 @@
 
 ##  ☁️ 배포링크 
 
-[https://touch.pe.kr](https://touch.or.kr)
+[https://touch.or.kr](https://touch.or.kr)
 
 <br />
 
